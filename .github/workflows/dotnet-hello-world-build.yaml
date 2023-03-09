@@ -24,3 +24,7 @@ jobs:
       - name: Run
         run: |
           dotnet run
+
+      - name: Run with time
+        run: |
+          dotnet run 23

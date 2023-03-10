@@ -48,7 +48,7 @@ public class AdditionServiceTests
     }
 
     [Fact]
-    public void SimpleIntegers()
+    public void Number17()
     {
         var service = new AdditionService();
         var expected = 19;

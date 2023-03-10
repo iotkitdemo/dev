@@ -1,4 +1,4 @@
-Welcome to the Development labs.
+Welcome to the Development labs...
 
 These are hands-on resources to help you learn the basics of Software Development.
 
